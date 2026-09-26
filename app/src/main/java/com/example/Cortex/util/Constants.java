@@ -27,10 +27,6 @@ public class Constants {
     public static final String EXTRA_OPPONENT_NAME = "extra_opponent_name";
     public static final String EXTRA_PEER_IP = "extra_peer_ip";
 
-    // Roles
-    public static final String ROLE_HOST = "HOST";
-    public static final String ROLE_CLIENT = "CLIENT";
-
     // Timer
     public static final int TIME_PER_QUESTION_SECONDS = 15;
     public static final int TIMER_TICK_MS = 1000;
@@ -38,7 +34,7 @@ public class Constants {
     public static final int TIMER_DANGER_SECONDS = 5;
 
     // Defaults
-    public static final int MAX_AMOUNT = 10;
+    public static final int MAX_AMOUNT = 50;
     public static final String DEFAULT_CATEGORY = "Any Category";
     public static final String DEFAULT_DIFFICULTY = "Any Difficulty";
     public static final String DEFAULT_TYPE = "Any Type";
