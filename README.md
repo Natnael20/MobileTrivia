@@ -6,7 +6,7 @@ A fast-paced Android quiz app that challenges you to think faster and learn more
 
 Cortex is an Android quiz application built with Java that fetches trivia questions from the Open Trivia Database (OpenTDB) API. It supports configurable categories, difficulties, and question types, with a scoring system driven by streak multipliers and a timer per question.
 
-The app was developed as a final project (gesällprov) with a focus on clean modular architecture, layered design, and an enjoyable user experience.
+The app was developed with a focus on clean modular architecture, layered design, and an enjoyable user experience.
 
 ## Features
 
